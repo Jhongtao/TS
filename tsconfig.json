@@ -1,0 +1,11 @@
+{
+  "compilerOptions":{
+    "module": "commonjs",
+    "target": "es2015",
+    "lib": ["ES2015"],
+    "outDir": "./dest",
+    "strictNullChecks": true
+  },
+  "include": ["./src"],
+  // "files": []
+}
